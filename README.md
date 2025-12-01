@@ -40,8 +40,7 @@ Finding the most common meaningful words in the text.
 
 | File | Description |
 |------|-------------|
-| `Notebook_1_Text_Preprocessing.ipynb` | Main notebook containing all preprocessing steps |
-| `README.md` | Documentation file (this file) |
+| `Text_Preprocessing.ipynb` | Main notebook containing all preprocessing steps |
 
 ---
 
@@ -68,7 +67,7 @@ This notebook teaches:
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 1. Clone the repository:
    ```bash
@@ -81,5 +80,4 @@ This notebook teaches:
 3.Open the notebook:
    ```
    jupyter notebook
-
    ```
